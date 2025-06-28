@@ -45,3 +45,7 @@ A simple and responsive **Registration Form** built using **HTML**, **CSS (Boots
 ├── form.js # Handles form logic, validation, and localStorage
 └── style.css # (Optional) Additional custom styles
 ```
+
+## 🙌 Acknowledgments
+
+This project is part of the **WD101** Web Development learning series.
