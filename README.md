@@ -39,5 +39,9 @@ A simple and responsive **Registration Form** built using **HTML**, **CSS (Boots
 ---
 
 ## 📁 Project Structure
-
-
+```
+📦 WD101-RegistrationForm
+├── index.html # Main HTML page with form and table
+├── form.js # Handles form logic, validation, and localStorage
+└── style.css # (Optional) Additional custom styles
+```
