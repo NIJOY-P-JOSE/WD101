@@ -49,3 +49,4 @@ A simple and responsive **Registration Form** built using **HTML**, **CSS (Boots
 ## 🙌 Acknowledgments
 
 This project is part of the **WD101** Web Development learning series.
+[PupilFirst_certificate.pdf](https://github.com/user-attachments/files/21000527/PupilFirst_certificate.pdf)
