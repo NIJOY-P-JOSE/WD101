@@ -49,4 +49,5 @@ A simple and responsive **Registration Form** built using **HTML**, **CSS (Boots
 ## 🙌 Acknowledgments
 
 This project is part of the **WD101** Web Development learning series.
+
 ![image](https://github.com/user-attachments/assets/34d4c77a-4cba-4ffd-95ea-4a1d5bb27244)
