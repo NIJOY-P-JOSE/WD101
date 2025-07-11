@@ -15,8 +15,8 @@ form.addEventListener('submit', function(event) {
   const password = document.getElementById('password').value;
   const dob = document.getElementById('dob').value;
   const termsAccepted = document.getElementById('terms').checked;
-
   const age = calculateAge(dob);
+  
   if (age < 18 || age > 55) {
     alert('Age must be between 18 and 55 years.');
     return;
