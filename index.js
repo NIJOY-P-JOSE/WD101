@@ -9,7 +9,6 @@ function calculateAge(dob) {
 
 form.addEventListener('submit', function(event) {
   event.preventDefault();
-
   const name = document.getElementById('name').value;
   const email = document.getElementById('email').value;
   const password = document.getElementById('password').value;
@@ -31,9 +30,7 @@ form.addEventListener('submit', function(event) {
  };
 
   let savedData = JSON.parse(localStorage.getItem('userData')) || [];
-
   savedData.push(userData);
-
   localStorage.setItem('userData', JSON.stringify(savedData));
 
   const row = table.insertRow();
@@ -44,7 +41,6 @@ form.addEventListener('submit', function(event) {
     <td>${dob}</td>
     <td>${termsAccepted}</td>
   `;
-
   form.reset();
 });
 
